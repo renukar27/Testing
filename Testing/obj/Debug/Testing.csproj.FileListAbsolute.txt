@@ -1,6 +1,5 @@
 D:\Testing\Testing\bin\Debug\Testing.exe.config
 D:\Testing\Testing\bin\Debug\Testing.exe
 D:\Testing\Testing\bin\Debug\Testing.pdb
-D:\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
 D:\Testing\Testing\obj\Debug\Testing.exe
 D:\Testing\Testing\obj\Debug\Testing.pdb
